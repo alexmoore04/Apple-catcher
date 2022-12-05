@@ -1,0 +1,34 @@
+﻿  GameObjects.cpp
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(33,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(34,43): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(38,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(39,43): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(45,43): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(46,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(67,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(68,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(69,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(70,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(164,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(165,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(186,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(187,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(188,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(189,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(203,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(204,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(206,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(207,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(259,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(260,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(261,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\GameObjects.cpp(262,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  SDLWeek8.cpp
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\SDLWeek8.cpp(269,11): warning C4101: 'objectRect': unreferenced local variable
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\SDLWeek8.cpp(344,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\SDLWeek8.cpp(366,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\SDLWeek8.cpp(389,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\SDLWeek8.cpp(995,31): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+  LINK : C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\x64\Debug\CI411_CW2_01.exe not found or not built by the last incremental link; performing full link
+  CI411_CW2_01.vcxproj -> C:\Users\Alex\Downloads\CI411_CW2_AM2671\CI411_CW2_AM2671\x64\Debug\CI411_CW2_01.exe
