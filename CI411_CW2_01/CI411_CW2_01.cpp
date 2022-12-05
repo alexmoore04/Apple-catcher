@@ -1,6 +1,5 @@
 // =======================================================
 // SDL Example
-// David Dorrington UoBGames, Feb 2022
 // =======================================================
 // Libraries to include
 #include <SDL.h>
