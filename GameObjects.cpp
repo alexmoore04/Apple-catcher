@@ -1,4 +1,3 @@
-// David Dorrington UoBGames, 2022
 // SDL Game Object Classes 
 // =======================================================
 
